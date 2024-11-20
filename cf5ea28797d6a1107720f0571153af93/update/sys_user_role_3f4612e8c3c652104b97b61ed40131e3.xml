@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_759224_menu_bu_0.testmatch_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>testmatch_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-20 10:58:06</sys_created_on>
+        <sys_id>3f4612e8c3c652104b97b61ed40131e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_759224_menu_bu_0.testmatch_user</sys_name>
+        <sys_package display_value="Menu-Generating-Operations-Program-Widget-Experience-Page" source="x_759224_menu_bu_0">cf5ea28797d6a1107720f0571153af93</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Menu-Generating-Operations-Program-Widget-Experience-Page">cf5ea28797d6a1107720f0571153af93</sys_scope>
+        <sys_update_name>sys_user_role_3f4612e8c3c652104b97b61ed40131e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-20 10:58:06</sys_updated_on>
+    </sys_user_role>
+</record_update>

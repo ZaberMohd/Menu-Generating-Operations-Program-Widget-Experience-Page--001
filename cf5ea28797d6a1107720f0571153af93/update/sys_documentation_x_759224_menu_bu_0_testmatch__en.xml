@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Testmatch" language="en" table="x_759224_menu_bu_0_testmatch">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Testmatch</label>
+            <language>en</language>
+            <name>x_759224_menu_bu_0_testmatch</name>
+            <plural>Testmatches</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-20 10:58:07</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Testmatch</sys_name>
+            <sys_package display_value="Menu-Generating-Operations-Program-Widget-Experience-Page" source="x_759224_menu_bu_0">cf5ea28797d6a1107720f0571153af93</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Menu-Generating-Operations-Program-Widget-Experience-Page">cf5ea28797d6a1107720f0571153af93</sys_scope>
+            <sys_update_name>sys_documentation_x_759224_menu_bu_0_testmatch__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-20 10:58:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
